@@ -1,25 +1,44 @@
-# Python 2.0 Learning Hub 🐍
+# 🐍 Python Mastery 💻🚀
 
-Welcome to **Python 2.0**, a beginner-friendly repository designed to **master Python through hands-on practice**. This repo contains structured examples, exercises, and mini-projects to help you **learn, practice, and grow your Python skills**.
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
 
----
-
-## 📂 Folder Structure
-
-- **basics/**: Learn Python fundamentals like variables, loops, and conditionals  
-- **data_structures/**: Practice lists, dictionaries, sets, and tuples for efficient data handling  
-- **mini_projects/**: Build small but practical projects like:  
-  - Calculator  
-  - Number Guessing Game  
-  - Crypto Portfolio Tracker  
-- **datasets/**: Sample CSV or JSON files used in mini-projects  
-- **images/**: Screenshots or visual outputs of projects  
+**🎯 Dive into Python! Learn variables, loops, conditionals, data structures, and build mini-projects while coding hands-on! 💻✨**  
 
 ---
 
-## 🚀 How to Use
+## 🌟 Features ✨
 
-1. **Clone the repository**  
+- 🟢 Beginner-friendly & interactive  
+- 🧩 Hands-on mini-projects for practical learning  
+- 📝 Well-commented, clean code  
+- 💼 Perfect for learning, portfolio, and interview prep  
+- 📚 Covers basics to small projects  
+
+---
+
+## 📂 Folder Structure 🗂️
+
+| Folder | Description |
+|--------|-------------|
+| `basics/` | 🐍 Variables, loops, conditionals |
+| `data_structures/` | 📊 Lists, dictionaries, sets, tuples |
+| `mini_projects/` | 🎮 Projects: Calculator, Number Guess, Crypto Portfolio |
+| `datasets/` | 📄 Sample CSV & JSON files |
+| `images/` | 🖼️ Screenshots, outputs, or visuals |
+
+---
+
+## 🚀 Quick Start ⚡
+
 ```bash
-git clone https://github.com/<your-username>/python-2.0.git
-cd "python 2.0"
+# Clone the repo
+git clone https://github.com/<your-username>/python-mastery.git
+cd python-mastery
+
+# Install dependencies (if any)
+pip install -r requirements.txt
+
+# Run scripts
+python basics/variables.py
+python mini_projects/calculator.py
