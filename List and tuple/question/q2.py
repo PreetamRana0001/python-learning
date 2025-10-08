@@ -1,0 +1,13 @@
+marks = []
+Students1 = int(input("Enter number of students: "))
+marks.append(Students1)
+Students2 = int(input("Enter number of students: "))
+marks.append(Students2)
+Students3 = int(input("Enter number of students: ")) 
+marks.append(Students3)
+Students4 = int(input("Enter number of students: "))
+marks.append(Students4)
+Students5 = int(input("Enter number of students: ")) 
+marks.append(Students5) 
+marks.sort()
+print(marks)

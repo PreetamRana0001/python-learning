@@ -1,0 +1,23 @@
+# a = 3 
+# b = 5
+# print(a + b)
+
+# c = 31
+
+# d = 10
+# print("reminder when c is divided by d is" ,c % d)
+
+# a = input("enter the value of a:")
+# print(type(a))
+
+# a = int(input("enter number 1:"))
+# b = int(input("enter number 2:"))
+# print("a is greater than b is ", a>b)
+
+# a = int(input("enter  number 1: "))
+# b = int(input("enter number 2: "))
+
+# print("the average of these two number is:", (a + b)/2)
+
+a = int(input("Enter NUmber:"))
+print("the square of the number is:", a**2)
